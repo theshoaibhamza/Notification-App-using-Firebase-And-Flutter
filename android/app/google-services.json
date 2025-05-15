@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "924128204075",
+    "project_id": "humtum-3700b",
+    "storage_bucket": "humtum-3700b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:924128204075:android:a6688ffd1ade8726a6616e",
+        "android_client_info": {
+          "package_name": "com.example.notification_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDm1gt5I0sJUfr-7OXJeK5FWNbTd6YR1FQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
